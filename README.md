@@ -1,1 +1,3 @@
 # katacombs
+
+Just a place to practice coding as I don't have too many chances recently...
